@@ -237,6 +237,8 @@ python test_gemini.py  # Test Gemini connection
 
 Built by **Team Botanic Defenders** 🌱
 
+## ⭐ Star this repo if you like it!
+
 > Empowering farmers with AI — because every harvest matters. 🌾🤖
 
 ---
